@@ -1,11 +1,11 @@
 # Graduate work
 Dissertations and Theses from my graduate students, sorted by year:
 
-## PhD Theses
+## [PhD Theses](phd)
 
 - [Automatic Reasoning over Contract Clauses](phd/phd-joao-aires.pdf) - João Paulo Aires, 2019
 - [Goal Recognition over Imperfect Domain Models](phd/phd-ramon-pereira.pdf) - João Paulo Aires, 2019
-- [Symbolic-geometric Planning](phd/phd-mauricio-magnaguagno.pdf) - Maurício Cecílio Magnaguagno, 2020
+- [Symbolic-geometric Planning](phd/phd-mauricio-magnaguagno.pdf) - Maurício Cecílio Magnaguagno, *2020*
 
 ## [MSc Dissertations](msc)
 
@@ -19,7 +19,7 @@ Dissertations and Theses from my graduate students, sorted by year:
 - [An Architecture for Improved Demand Forecasting](msc/msc-stephan-chang.pdf) - Stephan Chang, 2017
 - [Q-table Compression for Reinforcement Learning](msc/msc-leonardo-amado.pdf) - Leonardo Rosa Amado, 2018
 - [Bounded Monitor-placement in Normative Environments](msc/msc-guilherme-krzisch.pdf) - Guilherme Krzsich, 2018
-- [Understanding Contracts in Natural Language](msc/msc-daniele-pinheiro.pdf)
+- [Understanding Contracts in Natural Language](msc/msc-daniele-pinheiro.pdf) - Daniele Antunes Pinheiro, 2019
 - [Feature Visualization for Dyslexia Identification in Functional MRI Data](msc/msc-laura-silva.pdf) - Laura Angélica Tomaz da Silva, 2019
 - [Indexação Autônoma de Dados Utilizando Algoritmos Genéticos](msc/msc-priscilla-miehe.pdf) - Priscilla de Fátima Trindade Miehe, 2019
 - [Multi-model Approach to Identify Potential Problems in a Contract](msc/msc-alexandre-ichida.pdf) - Alexandre Yukio Ichida, 2020
