@@ -5,7 +5,7 @@ Dissertations and Theses from my graduate students, sorted by year:
 
 - [Automatic Reasoning over Contract Clauses](phd/phd-joao-aires.pdf) - João Paulo Aires, 2019
 - [Goal Recognition over Imperfect Domain Models](phd/phd-ramon-pereira.pdf) - Ramon Fraga Pereira, 2020
-- [Symbolic-geometric Planning](phd/phd-mauricio-magnaguagno.pdf) - Maurício Cecílio Magnaguagno, *2020*
+- [Symbolic-geometric Planning](phd/phd-mauricio-magnaguagno.pdf) - Maurício Cecílio Magnaguagno, 2020
 
 ## [MSc Dissertations](msc)
 
