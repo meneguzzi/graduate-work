@@ -6,6 +6,7 @@ Dissertations and Theses from my graduate students, sorted by year:
 - [Automatic Reasoning over Contract Clauses](phd/phd-joao-aires.pdf) - João Paulo Aires, 2019
 - [Goal Recognition over Imperfect Domain Models](phd/phd-ramon-pereira.pdf) - Ramon Fraga Pereira, 2020
 - [Symbolic-geometric Planning](phd/phd-mauricio-magnaguagno.pdf) - Maurício Cecílio Magnaguagno, 2020
+- [Learning how to act in a Normative Environment Through Observation](phd/phd-leonardo-amado.pdf) Leonardo Rosa Amado, 2021 
 
 ## [MSc Dissertations](msc)
 
@@ -24,3 +25,6 @@ Dissertations and Theses from my graduate students, sorted by year:
 - [Indexação Autônoma de Dados Utilizando Algoritmos Genéticos](msc/msc-priscilla-miehe.pdf) - Priscilla de Fátima Trindade Miehe, 2019
 - [Multi-model Approach to Identify Potential Problems in a Contract](msc/msc-alexandre-ichida.pdf) - Alexandre Yukio Ichida, 2020
 - [General Game Playing With Learned Rules](msc/msc-gabriel-rubin.pdf) - Gabriel de Arruda Rubin de Lima, 2020
+- [Automated Database Indexing Using Model-free Reinforcement Learning](msc/msc-gabriel-licks.pdf) - Gabriel Paludo Licks, 2020
+- [Solving a Markov Decision Process Multidimensional Problem With Tensor Decomposition](msc/msc-daniela-kuinchtner.pdf)
+- [Geometric Deep Learning for Functional Neuroimaging Analysis](msc/msc-matheus-marcon.pdf)
