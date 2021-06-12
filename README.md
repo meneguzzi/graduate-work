@@ -26,5 +26,5 @@ Dissertations and Theses from my graduate students, sorted by year:
 - [Multi-model Approach to Identify Potential Problems in a Contract](msc/msc-alexandre-ichida.pdf) - Alexandre Yukio Ichida, 2020
 - [General Game Playing With Learned Rules](msc/msc-gabriel-rubin.pdf) - Gabriel de Arruda Rubin de Lima, 2020
 - [Automated Database Indexing Using Model-free Reinforcement Learning](msc/msc-gabriel-licks.pdf) - Gabriel Paludo Licks, 2020
-- [Solving a Markov Decision Process Multidimensional Problem With Tensor Decomposition](msc/msc-daniela-kuinchtner.pdf)
-- [Geometric Deep Learning for Functional Neuroimaging Analysis](msc/msc-matheus-marcon.pdf)
+- [Solving a Markov Decision Process Multidimensional Problem With Tensor Decomposition](msc/msc-daniela-kuinchtner.pdf) - Daniela Kuinchtner, 2021
+- [Geometric Deep Learning for Functional Neuroimaging Analysis](msc/msc-matheus-marcon.pdf) - Matheus Zampieri Marcon, 2021
