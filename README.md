@@ -28,3 +28,4 @@ Dissertations and Theses from my graduate students, sorted by year:
 - [Automated Database Indexing Using Model-free Reinforcement Learning](msc/msc-gabriel-licks.pdf) - Gabriel Paludo Licks, 2020
 - [Solving a Markov Decision Process Multidimensional Problem With Tensor Decomposition](msc/msc-daniela-kuinchtner.pdf) - Daniela Kuinchtner, 2021
 - [Geometric Deep Learning for Functional Neuroimaging Analysis](msc/msc-matheus-marcon.pdf) - Matheus Zampieri Marcon, 2021
+- [Multiagent Goal Recognition as SAT](msc/msc-kin-gusmao.pdf)
