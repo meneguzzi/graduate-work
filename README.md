@@ -28,4 +28,7 @@ Dissertations and Theses from my graduate students, sorted by year:
 - [Automated Database Indexing Using Model-free Reinforcement Learning](msc/msc-gabriel-licks.pdf) - Gabriel Paludo Licks, 2020
 - [Solving a Markov Decision Process Multidimensional Problem With Tensor Decomposition](msc/msc-daniela-kuinchtner.pdf) - Daniela Kuinchtner, 2021
 - [Geometric Deep Learning for Functional Neuroimaging Analysis](msc/msc-matheus-marcon.pdf) - Matheus Zampieri Marcon, 2021
-- [Multiagent Goal Recognition as SAT](msc/msc-kin-gusmao.pdf)
+- [(MEng) Adaption, Implementation, and Evaluation of Search Strategies in a HTN Planner](msc/meng-cael-milne.pdf) - Cael Milne, 2023
+- [Playing the Game of Hive: an Imitation Learning Approach](msc/msc-john-mckenzie.pdf) - John McKenzie, 2023
+- [Multiagent Goal Recognition as SAT](msc/msc-kin-gusmao.pdf) - Kin Max Piamolini Gusmão, 2023
+- [Dimensional Speech Emotion Recognition From Bimodal Features](msc/msc-larissa-guder.pdf) - Larissa Guder, 2024
