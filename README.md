@@ -1,5 +1,7 @@
 # Graduate work
-Dissertations and Theses from my graduate students, sorted by year:
+
+Dissertations and Theses from my graduate students, sorted by year. This is both to serve as a coherent repository for my students regardless of my affiliation, but also to provide some guidance to current and future students.
+If you are a new student, please check out my checklists for both [MSc](msc-checklist.md) and [PhD](phd-checklist.md) dissertations. If you are interested in undergraduate final year projects, check [this repo instead](https://github.com/meneguzzi/meneguzzi-final-projects).
 
 ## [PhD Theses](phd)
 
