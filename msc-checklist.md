@@ -1,7 +1,9 @@
 # Checklist for MSc Deliverables
 
-The following checklist applies to MSc deliverables in Aberdeen. Do not forget to read my [tips on writing good science](http://www.meneguzzi.eu/felipe/writing.shtml), and double check the [MSc Manual](https://abdn.blackboard.com/ultra/courses/_64576_1/outline/edit/document/_4002582_1?courseId=_64576_1&view=content). 
-Since I want all academic documents written in LaTeX, please use this handy [template for final year projects](https://bitbucket.org/mflash/ep-tcc/src/master/). 
+The following checklist applies to MSc deliverables in Aberdeen. Do not forget to read my [tips on writing good science](http://www.meneguzzi.eu/felipe/writing.shtml), and double check the [MSc Manual](https://abdn.blackboard.com/ultra/courses/_64576_1/outline/edit/document/_4002582_1?courseId=_64576_1&view=content).
+Since I want all academic documents written in LaTeX, please use this handy [template for final year projects](https://bitbucket.org/mflash/ep-tcc/src/master/).
+You should probably use [Overleaf](https://www.overleaf.com/) to write your LaTeX documents so you can easily share it with me for feedback.
+Please do not email me Word Documents or PDFs, I will comment directly on your LaTeX sources. 
 If you don't know anything about LaTeX, I suggest you check out this [Quick tutorial on LaTeX](https://github.com/VoLuong/Begin-Latex-in-minutes) available on Github.
 Finally, besides the specific points I make in this checklist, be mindful of the following quality items for anything scientific you write:
 
