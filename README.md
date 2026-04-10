@@ -9,6 +9,7 @@ If you are a new student, please check out my checklists for both [MSc](msc-chec
 - [Goal Recognition over Imperfect Domain Models](phd/phd-ramon-pereira.pdf) - Ramon Fraga Pereira, 2020
 - [Symbolic-geometric Planning](phd/phd-mauricio-magnaguagno.pdf) - Maurício Cecílio Magnaguagno, 2020
 - [Learning how to act in a Normative Environment Through Observation](phd/phd-leonardo-amado.pdf) Leonardo Rosa Amado, 2021 
+- [A BDI-Based Architecture For Autonomous Agents In Textual Environments](phd/phd-alexandre-ichida.pdf) - Alexandre Yukio Ichida, 2025.
 
 ## [MSc Dissertations](msc)
 
